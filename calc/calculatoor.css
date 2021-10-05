@@ -1,0 +1,25 @@
+fieldset
+{
+    background-color:#CCC;
+    max-width:500px;
+    padding:16px;
+}
+legend
+{
+    margin-bottom:0px;
+    margin-left:16px;
+}
+input[type=number]{
+    opacity: 1;
+    
+}
+img{
+    border: 5px solid darkblue;
+}
+
+select {
+    color: red;
+    background: yellow;
+}
+
+
